@@ -42,6 +42,8 @@ For production use, deploy the FastAPI app to a cloud provider such as AWS, GCP,
 3. Deploy the project. Railway will automatically install dependencies and start the server.
 4. Once deployed, you need to "expose" the service to get a public URL. Click on the project, then settings then in the networking section "Generate Domain". Once generated, copy the URL and use it when configuring the Study.
 
+<img width="1474" height="638" alt="Screenshot 2025-12-11 at 22 24 41" src="https://github.com/user-attachments/assets/a5e65d9f-8c1e-464e-bd95-c979666b2f2d" />
+
 ## Customization
 
 - Replace the dummy algorithm in `run_algorithm()` with your own analysis logic.
